@@ -1,0 +1,21 @@
+{
+    "name": "bueller",
+    "displayName": "Bueller",
+    "description": "more bueller",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bueller",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bueller-color-theme.json"
+            }
+        ]
+    }
+}
