@@ -18,5 +18,8 @@
             }
         ]
     },
-    "publisher": "gfldevo"
+    "publisher": "gfldevo",
+    "repository": {
+        "url": "https://github.com/gflujan/bueller-vscode-theme"
+    }
 }
