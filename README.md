@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "bueller"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Bueller VSCode Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+[GitHub Source](https://github.com/gflujan/bueller-vscode-theme)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This is my take on the popular Brogrammer theme that I first discovered and used in Sublime Text 3.
 
-**Enjoy!**
+This is also my first stab at publishing an extension/theme to the VSCode marketplace.
+If there's something I'm missing or that could be done better, please let me know. :-)
+
+Hope you enjoy!
