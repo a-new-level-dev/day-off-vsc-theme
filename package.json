@@ -1,25 +1,26 @@
 {
-    "name": "bueller",
-    "displayName": "Bueller Theme",
-    "description": "This is my take on the popular Brogrammer theme that I first discovered and used in Sublime Text 3.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.38.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Bueller Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Bueller-color-theme.json"
-            }
-        ]
-    },
-    "publisher": "NeoAndres",
-    "repository": {
-        "url": "https://github.com/gflujan/bueller-vscode-theme"
-    }
+  "author": "neo-andres",
+  "name": "day-off-color-theme",
+  "displayName": "Day Off Color Theme",
+  "description": "This is my take on the popular Brogrammer theme that I first discovered and used in Sublime Text 3.",
+  "version": "1.1.0",
+  "engines": {
+    "vscode": "^1.41.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Day Off Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/day-off-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "Neo Andres",
+  "repository": {
+    "url": "https://github.com/gflujan/bueller-vscode-theme"
+  }
 }

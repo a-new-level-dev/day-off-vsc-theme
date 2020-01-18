@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> -->
+<!-- <plist version="1.0"> -->
+
+<dict>
+  <key>name</key>
+  <string>Day Off Color Theme</string>
+  <key>settings</key>
+  <array>
+    <!-- GLOBAL SETTINGS -->
+    <dict>
+      <key>settings</key>
+      <dict>
+        <key>activeGuide</key>
+        <string>#00FFFF</string>
+      </dict>
+    </dict>
+    <!-- SCOPED STYLES -->
+    <dict>      <!-- BEGIN: One Definition for a Scope -->
+      <key>name</key>
+      <string></string>
+      <key>scope</key>
+      <string></string>
+      <key>settings</key>
+      <dict>
+        <key></key>
+        <string></string>
+      </dict>
+    </dict>    <!-- END: One Definition for a Scope -->
+  </array>
+</dict>
