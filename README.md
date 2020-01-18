@@ -8,3 +8,5 @@ This is also my first stab at publishing an extension/theme to the VSCode market
 If there's something I'm missing or that could be done better, please let me know. :-)
 
 Hope you enjoy!
+
+_P.S. This theme is created with the use of the "Operator Mono" font in mind._
