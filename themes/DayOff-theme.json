@@ -150,7 +150,7 @@
     "name": "C/C++ Preprocessor Line",
     "scope": "other.preprocessor.c",
     "settings": {
-      "foreground": "#3498db"
+      "foreground": "#3498DB"
     }
   },
   {
@@ -197,7 +197,7 @@
     "name": "css property-name:",
     "scope": "support.type.property-name.css",
     "settings": {
-      "foreground": "#3498db"
+      "foreground": "#3498DB"
     }
   },
   {
@@ -388,7 +388,7 @@
     "name": "HTML Entities",
     "scope": "constant.character.entity.html",
     "settings": {
-      "foreground": "#3498db"
+      "foreground": "#3498DB"
     }
   },
   {

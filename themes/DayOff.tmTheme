@@ -248,9 +248,134 @@
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
       <key>name</key>
-      <string></string>
+      <string>C/C++ Preprocessor Line</string>
       <key>scope</key>
-      <string></string>
+      <string>other.preprocessor.c</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#3498DB</string>
+      </dict>
+    </dict>
+    <dict>      <!-- BEGIN: One Scope Definition -->
+      <key>name</key>
+      <string>C/C++ Preprocessor Directive</string>
+      <key>scope</key>
+      <string>other.preprocessor.c entity</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#2ECC71</string>
+      </dict>
+    </dict>
+    <dict>      <!-- BEGIN: One Scope Definition -->
+      <key>name</key>
+      <string>Meta.tag.A</string>
+      <key>scope</key>
+      <array>
+        <string>declaration.tag</string>
+        <string>declaration.tag entity</string>
+        <string>meta.tag</string>
+        <string>meta.tag entity</string>
+      </array>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#E74C3C</string>
+      </dict>
+    </dict>
+    <dict>      <!-- BEGIN: One Scope Definition -->
+      <key>name</key>
+      <string>css tag-name</string>
+      <key>scope</key>
+      <string>meta.selector.css entity.tag.name</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#1ABC9C</string>
+      </dict>
+    </dict>
+    <dict>      <!-- BEGIN: One Scope Definition -->
+      <key>name</key>
+      <string>css#id</string>
+      <key>scope</key>
+      <string>meta.selector.css entity.other.attribute-name.id</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FF87F9</string>
+      </dict>
+    </dict>
+    <dict>      <!-- BEGIN: One Scope Definition -->
+      <key>name</key>
+      <string>css.class</string>
+      <key>scope</key>
+      <string>meta.selector.css entity.other.attribute-name.class</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#43E689</string>
+      </dict>
+    </dict>
+    <dict>      <!-- BEGIN: One Scope Definition -->
+      <key>name</key>
+      <string>css property-name</string>
+      <key>scope</key>
+      <string>support.type.property-name.css</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#3498DB</string>
+      </dict>
+    </dict>
+    <dict>      <!-- BEGIN: One Scope Definition -->
+      <key>name</key>
+      <string>css property-value</string>
+      <key>scope</key>
+      <array>
+        <string>meta.property-group support.constant.property-value.css</string>
+        <string>meta.property-value support.constant.property-value.css</string>
+      </array>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#F2FFA1</string>
+        <key>fontStyle</key>
+        <string>italic</string>
+      </dict>
+    </dict>
+    <dict>      <!-- BEGIN: One Scope Definition -->
+      <key>name</key>
+      <string>css @at-rule</string>
+      <key>scope</key>
+      <string>meta.processor.at-rule keyword.control.at-rule</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#F1C40F</string>
+        <key>fontStyle</key>
+        <string>bold</string>
+      </dict>
+    </dict>
+    <dict>      <!-- BEGIN: One Scope Definition -->
+      <key>name</key>
+      <string>css additional-constants</string>
+      <key>scope</key>
+      <array>
+        <string>meta.property-value support.constant.named-color.css</string>
+        <string>meta.property-value constant</string>
+      </array>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#E74C3C</string>
+      </dict>
+    </dict>
+    <dict>      <!-- BEGIN: One Scope Definition -->
+      <key>name</key>
+      <string>css constructor.argument</string>
+      <key>scope</key>
+      <string>meta.constructor.argument.css</string>
       <key>settings</key>
       <dict>
         <key></key>
