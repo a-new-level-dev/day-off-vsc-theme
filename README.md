@@ -2,6 +2,8 @@
 
 [GitHub Source](https://github.com/gflujan/bueller-vscode-theme)
 
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=neo-andres.day-off-color-theme)
+
 This is my take on the popular Brogrammer theme that I first discovered and used in Sublime Text 3.
 
 This is also my first stab at publishing an extension/theme to the VSCode marketplace.
