@@ -47,6 +47,6 @@
     "window.activeBorder": "#00FFFF50",
     "window.inactiveBorder": "#777777",
   },
-  "tokenColors": "./DayOff.tmTheme",
+  "tokenColors": "./DayOffTheme.tmTheme",
   "type": "dark"
 }

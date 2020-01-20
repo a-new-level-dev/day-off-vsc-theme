@@ -15,7 +15,7 @@
       {
         "label": "Day Off Color Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/day-off-color-theme.json"
+        "path": "./themes/.day-off-color-theme.json"
       }
     ]
   },
