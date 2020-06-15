@@ -12,21 +12,21 @@
       <key>settings</key>
       <dict>
         <key>activeGuide</key>
-        <string>#00FFFF</string>
+        <string>#00ffff</string>
         <key>background</key>
-        <string>#1A1A1A</string>
+        <string>#1a1a1a</string>
         <key>findHighlight</key>
-        <string>#E74C3C</string>
+        <string>#e74c3c</string>
         <key>foreground</key>
-        <string>#ECF0F1</string>
+        <string>#ecf0f1</string>
         <key>gutter</key>
         <string>#222222</string>
         <key>gutterForeground</key>
         <string>#606060</string>
         <key>selectionForeground</key>
-        <string>#FFFFFF</string>
+        <string>#ffffff</string>
         <key>stackGuide</key>
-        <string>#FFFF0070</string>
+        <string>#ffff0070</string>
       </dict>
     </dict>
     <!-- SCOPED STYLES -->
@@ -53,9 +53,9 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#2B2B2B00</string>
+        <string>#2b2b2b00</string>
         <key>foreground</key>
-        <string>#9999FF</string>
+        <string>#9999ff</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -66,7 +66,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#98FF98</string>
+        <string>#98ff98</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -77,7 +77,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#E74C3C</string>
+        <string>#e74c3c</string>
         <key>fontStyle</key>
         <string>bold</string>
       </dict>
@@ -90,7 +90,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#3498DB</string>
+        <string>#3498db</string>
         <key>fontStyle</key>
         <string>bold</string>
       </dict>
@@ -103,7 +103,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#F1C40F</string>
+        <string>#f1c40f</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -114,7 +114,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#3498DB</string>
+        <string>#3498db</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -125,9 +125,9 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#E6B09C</string>
+        <string>#e6b09c</string>
         <key>background</key>
-        <string>#FFFFFF00</string>
+        <string>#ffffff00</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -138,9 +138,9 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#FF0000DE</string>
+        <string>#ff0000de</string>
         <key>foreground</key>
-        <string>#FFFFFF</string>
+        <string>#ffffff</string>
         <key>fontStyle</key>
         <string>italic bold underline</string>
       </dict>
@@ -175,7 +175,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#2ECC71</string>
+        <string>#2ecc71</string>
         <key>fontStyle</key>
         <string>italic</string>
       </dict>
@@ -188,7 +188,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#F1C40F</string>
+        <string>#f1c40f</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -199,7 +199,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#6C71C4</string>
+        <string>#6c71c4</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -210,7 +210,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#3498DB</string>
+        <string>#3498db</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -221,7 +221,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFFFFF</string>
+        <string>#ffffff</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -232,7 +232,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#3498DB</string>
+        <string>#3498db</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -243,7 +243,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#2ECC71</string>
+        <string>#2ecc71</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -254,7 +254,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#3498DB</string>
+        <string>#3498db</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -265,7 +265,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#2ECC71</string>
+        <string>#2ecc71</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -281,7 +281,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#E74C3C</string>
+        <string>#e74c3c</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -292,7 +292,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#1ABC9C</string>
+        <string>#1abc9c</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -303,7 +303,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FF87F9</string>
+        <string>#ff87f9</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -314,7 +314,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#43E689</string>
+        <string>#43e689</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -325,7 +325,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#3498DB</string>
+        <string>#3498db</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -339,7 +339,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#F2FFA1</string>
+        <string>#f2ffa1</string>
         <key>fontStyle</key>
         <string>italic</string>
       </dict>
@@ -352,7 +352,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#F1C40F</string>
+        <string>#f1c40f</string>
         <key>fontStyle</key>
         <string>bold</string>
       </dict>
@@ -368,7 +368,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#E74C3C</string>
+        <string>#e74c3c</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -379,7 +379,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#E74C3C</string>
+        <string>#e74c3c</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -393,11 +393,11 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#2ECC71</string>
+        <string>#2ecc71</string>
         <key>fontStyle</key>
         <string>italic</string>
         <key>foreground</key>
-        <string>#F8F8F8</string>
+        <string>#f8f8f8</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -408,9 +408,9 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#E74C3C</string>
+        <string>#e74c3c</string>
         <key>foreground</key>
-        <string>#F8F8F8</string>
+        <string>#f8f8f8</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -421,9 +421,9 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#E67E22</string>
+        <string>#e67e22</string>
         <key>foreground</key>
-        <string>#F8F8F8</string>
+        <string>#f8f8f8</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -434,9 +434,9 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#F1C40F</string>
+        <string>#f1c40f</string>
         <key>foreground</key>
-        <string>#F8F8F8</string>
+        <string>#f8f8f8</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -458,7 +458,7 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#D7503C</string>
+        <string>#d7503c</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -469,7 +469,7 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#D7503C</string>
+        <string>#d7503c</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -480,9 +480,9 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#9F3A2C</string>
+        <string>#9f3a2c</string>
         <key>foreground</key>
-        <string>#FFFFFF</string>
+        <string>#ffffff</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -493,7 +493,7 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#D7503C</string>
+        <string>#d7503c</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -504,7 +504,7 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#9F3A2C</string>
+        <string>#9f3a2c</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -515,7 +515,7 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#D7503C</string>
+        <string>#d7503c</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -526,7 +526,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FF87F9</string>
+        <string>#ff87f9</string>
         <key>fontStyle</key>
         <string>bold</string>
       </dict>
@@ -539,7 +539,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#43E689</string>
+        <string>#43e689</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -554,7 +554,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFFFFF</string>
+        <string>#ffffff</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -565,7 +565,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#F1C40F</string>
+        <string>#f1c40f</string>
         <key>fontStyle</key>
         <string>bold</string>
       </dict>
@@ -578,7 +578,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFFFFF</string>
+        <string>#ffffff</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -589,7 +589,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#9B59B6</string>
+        <string>#9b59b6</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -600,7 +600,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#3498DB</string>
+        <string>#3498db</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -614,7 +614,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#E74C3C</string>
+        <string>#e74c3c</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -625,7 +625,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#3498DB</string>
+        <string>#3498db</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -636,7 +636,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#E67E22</string>
+        <string>#e67e22</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -650,7 +650,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#F1C40F</string>
+        <string>#f1c40f</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -661,7 +661,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#5EEBB8</string>
+        <string>#5eebb8</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -672,7 +672,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFFFFF</string>
+        <string>#ffffff</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -683,7 +683,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#3CADD7</string>
+        <string>#3cadd7</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -694,7 +694,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#1ABC9C</string>
+        <string>#1abc9c</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -714,7 +714,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#3C444D</string>
+        <string>#3c444d</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -725,7 +725,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFFFFF</string>
+        <string>#ffffff</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -736,7 +736,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#DDB700</string>
+        <string>#ddb700</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -747,7 +747,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#D02000</string>
+        <string>#d02000</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -758,7 +758,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#F92672</string>
+        <string>#f92672</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -769,7 +769,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#A6E22E</string>
+        <string>#a6e22e</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
@@ -780,7 +780,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#967EFB</string>
+        <string>#967efb</string>
       </dict>
     </dict>
     <dict>      <!-- BEGIN: One Scope Definition -->
