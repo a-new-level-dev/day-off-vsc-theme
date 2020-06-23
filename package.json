@@ -1,5 +1,5 @@
 {
-  "author": "gabriel-f-lujan",
+  "author": "a-new-level-media",
   "name": "day-off-color-theme",
   "displayName": "Day Off Color Theme",
   "description": "This is a remix of the popular Brogrammer theme that was first discovered and used in Sublime Text 3. Enjoy!",
@@ -19,8 +19,8 @@
       }
     ]
   },
-  "publisher": "neo-andres",
+  "publisher": "ANewLevelMedia",
   "repository": {
-    "url": "https://github.com/gflujan/day-off-vsc-theme"
+    "url": "https://github.com/ANewLevelMedia/day-off-vsc-theme"
   }
 }
