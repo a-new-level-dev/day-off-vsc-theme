@@ -2,810 +2,810 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.2.0">
 
-<dict>
-	<key>name</key>
-	<string>Day Off Color Theme</string>
-	<key>settings</key>
-	<array>
-		<!-- GLOBAL SETTINGS -->
-		<dict>
-			<key>settings</key>
-			<dict>
-				<key>activeGuide</key>
-				<string>#00ffff</string>
-				<key>background</key>
-				<string>#1a1a1a</string>
-				<key>findHighlight</key>
-				<string>#e74c3c</string>
-				<key>foreground</key>
-				<string>#ecf0f1</string>
-				<key>gutter</key>
-				<string>#222222</string>
-				<key>gutterForeground</key>
-				<string>#606060</string>
-				<key>selectionForeground</key>
-				<string>#ffffff</string>
-				<key>stackGuide</key>
-				<string>#ffff0070</string>
-			</dict>
-		</dict>
-		<!-- SCOPED STYLES -->
-		<!-- These correlate to the `textMateRules` in the settings.json file -->
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Comment</string>
-			<key>scope</key>
-			<string>comment</string>
-			<key>settings</key>
-			<dict>
-				<!-- <key>background</key> -->
-				<!-- <string>#222222</string> -->
-				<key>fontStyle</key>
-				<string>italic</string>
-				<key>foreground</key>
-				<!-- <string>#606060</string> -->
-				<string>#3e564d</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Constant</string>
-			<key>scope</key>
-			<string>constant</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#2b2b2b00</string>
-				<key>foreground</key>
-				<string>#9999ff</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Entity</string>
-			<key>scope</key>
-			<string>entity</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#98ff98</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Keyword</string>
-			<key>scope</key>
-			<string>keyword</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#e74c3c</string>
-				<key>fontStyle</key>
-				<string>bold</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Storage</string>
-			<key>scope</key>
-			<string>storage</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#3498db</string>
-				<key>fontStyle</key>
-				<string>bold</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>String</string>
-			<key>scope</key>
-			<string>string</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f1c40f</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Support</string>
-			<key>scope</key>
-			<string>support</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#3498db</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Variable</string>
-			<key>scope</key>
-			<string>variable</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#e6b09c</string>
-				<key>background</key>
-				<string>#ffffff00</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Invalid</string>
-			<key>scope</key>
-			<string>invalid</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#ff0000de</string>
-				<key>foreground</key>
-				<string>#ffffff</string>
-				<key>fontStyle</key>
-				<string>italic bold underline</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Embedded Source</string>
-			<key>scope</key>
-			<string>text source</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string></string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Embedded Source (Bright)</string>
-			<key>scope</key>
-			<string>text.html.ruby source</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string></string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Entity inherited-class</string>
-			<key>scope</key>
-			<string>entity.other.inherited-class</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#2ecc71</string>
-				<key>fontStyle</key>
-				<string>italic</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>String embedded-source</string>
-			<key>scope</key>
-			<string>string.quoted source</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f1c40f</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>String constant</string>
-			<key>scope</key>
-			<string>string constant</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#6c71c4</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>String.regexp</string>
-			<key>scope</key>
-			<string>string.regexp</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#3498db</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>String variable</string>
-			<key>scope</key>
-			<string>string variable</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ffffff</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Support.function</string>
-			<key>scope</key>
-			<string>support.function</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#3498db</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Support.constant</string>
-			<key>scope</key>
-			<string>support.constant</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#2ecc71</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>C/C++ Preprocessor Line</string>
-			<key>scope</key>
-			<string>other.preprocessor.c</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#3498db</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>C/C++ Preprocessor Directive</string>
-			<key>scope</key>
-			<string>other.preprocessor.c entity</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#2ecc71</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Meta.tag.A</string>
-			<key>scope</key>
-			<array>
-				<string>declaration.tag</string>
-				<string>declaration.tag entity</string>
-				<string>meta.tag</string>
-				<string>meta.tag entity</string>
-			</array>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#e74c3c</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>css tag-name</string>
-			<key>scope</key>
-			<string>meta.selector.css entity.tag.name</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#1abc9c</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>css#id</string>
-			<key>scope</key>
-			<string>meta.selector.css entity.other.attribute-name.id</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ff87f9</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>css.class</string>
-			<key>scope</key>
-			<string>meta.selector.css entity.other.attribute-name.class</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#43e689</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>css property-name</string>
-			<key>scope</key>
-			<string>support.type.property-name.css</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#3498db</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>css property-value</string>
-			<key>scope</key>
-			<array>
-				<string>meta.property-group support.constant.property-value.css</string>
-				<string>meta.property-value support.constant.property-value.css</string>
-			</array>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f2ffa1</string>
-				<key>fontStyle</key>
-				<string>italic</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>css @at-rule</string>
-			<key>scope</key>
-			<string>meta.processor.at-rule keyword.control.at-rule</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f1c40f</string>
-				<key>fontStyle</key>
-				<string>bold</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>css additional-constants</string>
-			<key>scope</key>
-			<array>
-				<string>meta.property-value support.constant.named-color.css</string>
-				<string>meta.property-value constant</string>
-			</array>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#e74c3c</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>css constructor.argument</string>
-			<key>scope</key>
-			<string>meta.constructor.argument.css</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#e74c3c</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>diff.header</string>
-			<key>scope</key>
-			<array>
-				<string>meta.diff</string>
-				<string>meta.diff.header</string>
-			</array>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#2ecc71</string>
-				<key>fontStyle</key>
-				<string>italic</string>
-				<key>foreground</key>
-				<string>#f8f8f8</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>diff.deleted</string>
-			<key>scope</key>
-			<string>markup.deleted</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#e74c3c</string>
-				<key>foreground</key>
-				<string>#f8f8f8</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>diff.changed</string>
-			<key>scope</key>
-			<string>markup.changed</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#e67e22</string>
-				<key>foreground</key>
-				<string>#f8f8f8</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>diff.inserted</string>
-			<key>scope</key>
-			<string>markup.inserted</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#f1c40f</string>
-				<key>foreground</key>
-				<string>#f8f8f8</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>SublimeLinter Annotations</string>
-			<key>scope</key>
-			<string>sublimelinter.outline.notes</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#233345</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>SublimeLinter Outline</string>
-			<key>scope</key>
-			<string>sublimelinter.outline.illegal</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#d7503c</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>SublimeLinter Underline</string>
-			<key>scope</key>
-			<string>sublimelinter.outline.warning</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#d7503c</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>SublimeLinter Warning Outline</string>
-			<key>scope</key>
-			<string>sublimelinter.outline.warning</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#9f3a2c</string>
-				<key>foreground</key>
-				<string>#ffffff</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>SublimeLinter Warning Underline</string>
-			<key>scope</key>
-			<string>sublimelinter.underline.warning</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#d7503c</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>SublimeLinter Violation Outline</string>
-			<key>scope</key>
-			<string>sublimelinter.outline.violation</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#9f3a2c</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>SublimeLinter Violation Underline</string>
-			<key>scope</key>
-			<string>SublimeLinter.underline.violation</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#d7503c</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>html id</string>
-			<key>scope</key>
-			<string>entity.other.attribute-name.id.html</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ff87f9</string>
-				<key>fontStyle</key>
-				<string>bold</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>html class</string>
-			<key>scope</key>
-			<string>entity.other.attribute-name.html</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#43e689</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>html punctuations tags</string>
-			<key>scope</key>
-			<array>
-				<string>punctuation.definition.tag.end</string>
-				<string>punctuation.definition.tag.begin</string>
-				<string>punctuation.definition.tag</string>
-			</array>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ffffff</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>CSS @import</string>
-			<key>scope</key>
-			<string>keyword.control.at-rule.import.css</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f1c40f</string>
-				<key>fontStyle</key>
-				<string>bold</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>LESS variables</string>
-			<key>scope</key>
-			<string>variable.other.less</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ffffff</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>LESS variables</string>
-			<key>scope</key>
-			<string>entity.other.less.mixin</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#9b59b6</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>LESS units</string>
-			<key>scope</key>
-			<string>source.css.less keyword.unit.css</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#3498db</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Angular</string>
-			<key>scope</key>
-			<array>
-				<string>entity.other.attribute-name.angular.html</string>
-				<string>source.angular.embedded.html</string>
-			</array>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#e74c3c</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>HTML Entities</string>
-			<key>scope</key>
-			<string>constant.character.entity.html</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#3498db</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>coffee instance var</string>
-			<key>scope</key>
-			<string>variable.other.readwrite.instance.coffee</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#e67e22</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>coffee brace</string>
-			<key>scope</key>
-			<array>
-				<string>meta.brace.round.coffee</string>
-				<string>meta.brace.square.coffee</string>
-			</array>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f1c40f</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>coffee embeded</string>
-			<key>scope</key>
-			<string>punctuation.section.embedded.coffee</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#5eebb8</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Coffee vars</string>
-			<key>scope</key>
-			<string>variable.assignment.coffee variable.assignment.coffee</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ffffff</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Coffee dots</string>
-			<key>scope</key>
-			<string>meta.delimiter.method.period.coffee</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#3cadd7</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Coffee curleys</string>
-			<key>scope</key>
-			<string>meta.brace.curly.coffee</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#1abc9c</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>Doctype/XML Processing</string>
-			<key>scope</key>
-			<array>
-				<string>meta.tag.sgml.doctype.xml</string>
-				<string>declaration.sgml.html declaration.doctype</string>
-				<string>declaration.sgml.html declaration.doctype entity</string>
-				<string>declaration.sgml.html declaration.doctype string</string>
-				<string>declaration.xml-processing</string>
-				<string>declaration.xml-processing entity</string>
-				<string>declaration.xml-processing string</string>
-				<string>doctype</string>
-			</array>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#3c444d</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>SublimeLinter Gutter Mark</string>
-			<key>scope</key>
-			<string>sublimelinter.gutter-mark</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ffffff</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>SublimeLinter Warning</string>
-			<key>scope</key>
-			<string>sublimelinter.mark.warning</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ddb700</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>SublimeLinter Error</string>
-			<key>scope</key>
-			<string>sublimelinter.mark.error</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#d02000</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>GitGutter deleted</string>
-			<key>scope</key>
-			<string>markup.deleted.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f92672</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>GitGutter inserted</string>
-			<key>scope</key>
-			<string>markup.inserted.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#a6e22e</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>GitGutter changed</string>
-			<key>scope</key>
-			<string>markup.changed.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#967efb</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>GitGutter ignored</string>
-			<key>scope</key>
-			<string>markup.ignored.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#565656</string>
-			</dict>
-		</dict>
-		<dict>      <!-- BEGIN: One Scope Definition -->
-			<key>name</key>
-			<string>GitGutter untracked</string>
-			<key>scope</key>
-			<string>markup.untracked.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#565656</string>
-			</dict>
-		</dict>
-	</array>
-</dict>
+   <dict>
+      <key>name</key>
+      <string>Day Off Color Theme</string>
+      <key>settings</key>
+      <array>
+         <!-- GLOBAL SETTINGS -->
+         <dict>
+            <key>settings</key>
+            <dict>
+               <key>activeGuide</key>
+               <string>#00ffff</string>
+               <key>background</key>
+               <string>#1a1a1a</string>
+               <key>findHighlight</key>
+               <string>#e74c3c</string>
+               <key>foreground</key>
+               <string>#ecf0f1</string>
+               <key>gutter</key>
+               <string>#222222</string>
+               <key>gutterForeground</key>
+               <string>#606060</string>
+               <key>selectionForeground</key>
+               <string>#ffffff</string>
+               <key>stackGuide</key>
+               <string>#ffff0070</string>
+            </dict>
+         </dict>
+         <!-- SCOPED STYLES -->
+         <!-- These correlate to the `textMateRules` in the settings.json file -->
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Comment</string>
+            <key>scope</key>
+            <string>comment</string>
+            <key>settings</key>
+            <dict>
+               <!-- <key>background</key> -->
+               <!-- <string>#222222</string> -->
+               <key>fontStyle</key>
+               <string>italic</string>
+               <key>foreground</key>
+               <!-- <string>#606060</string> -->
+               <string>#3e564d</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Constant</string>
+            <key>scope</key>
+            <string>constant</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#2b2b2b00</string>
+               <key>foreground</key>
+               <string>#9999ff</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Entity</string>
+            <key>scope</key>
+            <string>entity</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#98ff98</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Keyword</string>
+            <key>scope</key>
+            <string>keyword</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#e74c3c</string>
+               <key>fontStyle</key>
+               <string>bold</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Storage</string>
+            <key>scope</key>
+            <string>storage</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#3498db</string>
+               <key>fontStyle</key>
+               <string>bold</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>String</string>
+            <key>scope</key>
+            <string>string</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#f1c40f</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Support</string>
+            <key>scope</key>
+            <string>support</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#3498db</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Variable</string>
+            <key>scope</key>
+            <string>variable</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#e6b09c</string>
+               <key>background</key>
+               <string>#ffffff00</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Invalid</string>
+            <key>scope</key>
+            <string>invalid</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#ff0000de</string>
+               <key>foreground</key>
+               <string>#ffffff</string>
+               <key>fontStyle</key>
+               <string>italic bold underline</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Embedded Source</string>
+            <key>scope</key>
+            <string>text source</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string></string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Embedded Source (Bright)</string>
+            <key>scope</key>
+            <string>text.html.ruby source</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string></string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Entity inherited-class</string>
+            <key>scope</key>
+            <string>entity.other.inherited-class</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#2ecc71</string>
+               <key>fontStyle</key>
+               <string>italic</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>String embedded-source</string>
+            <key>scope</key>
+            <string>string.quoted source</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#f1c40f</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>String constant</string>
+            <key>scope</key>
+            <string>string constant</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#6c71c4</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>String.regexp</string>
+            <key>scope</key>
+            <string>string.regexp</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#3498db</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>String variable</string>
+            <key>scope</key>
+            <string>string variable</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#ffffff</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Support.function</string>
+            <key>scope</key>
+            <string>support.function</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#3498db</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Support.constant</string>
+            <key>scope</key>
+            <string>support.constant</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#2ecc71</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>C/C++ Preprocessor Line</string>
+            <key>scope</key>
+            <string>other.preprocessor.c</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#3498db</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>C/C++ Preprocessor Directive</string>
+            <key>scope</key>
+            <string>other.preprocessor.c entity</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#2ecc71</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Meta.tag.A</string>
+            <key>scope</key>
+            <array>
+               <string>declaration.tag</string>
+               <string>declaration.tag entity</string>
+               <string>meta.tag</string>
+               <string>meta.tag entity</string>
+            </array>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#e74c3c</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>css tag-name</string>
+            <key>scope</key>
+            <string>meta.selector.css entity.tag.name</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#1abc9c</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>css#id</string>
+            <key>scope</key>
+            <string>meta.selector.css entity.other.attribute-name.id</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#ff87f9</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>css.class</string>
+            <key>scope</key>
+            <string>meta.selector.css entity.other.attribute-name.class</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#43e689</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>css property-name</string>
+            <key>scope</key>
+            <string>support.type.property-name.css</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#3498db</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>css property-value</string>
+            <key>scope</key>
+            <array>
+               <string>meta.property-group support.constant.property-value.css</string>
+               <string>meta.property-value support.constant.property-value.css</string>
+            </array>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#f2ffa1</string>
+               <key>fontStyle</key>
+               <string>italic</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>css @at-rule</string>
+            <key>scope</key>
+            <string>meta.processor.at-rule keyword.control.at-rule</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#f1c40f</string>
+               <key>fontStyle</key>
+               <string>bold</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>css additional-constants</string>
+            <key>scope</key>
+            <array>
+               <string>meta.property-value support.constant.named-color.css</string>
+               <string>meta.property-value constant</string>
+            </array>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#e74c3c</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>css constructor.argument</string>
+            <key>scope</key>
+            <string>meta.constructor.argument.css</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#e74c3c</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>diff.header</string>
+            <key>scope</key>
+            <array>
+               <string>meta.diff</string>
+               <string>meta.diff.header</string>
+            </array>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#2ecc71</string>
+               <key>fontStyle</key>
+               <string>italic</string>
+               <key>foreground</key>
+               <string>#f8f8f8</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>diff.deleted</string>
+            <key>scope</key>
+            <string>markup.deleted</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#e74c3c</string>
+               <key>foreground</key>
+               <string>#f8f8f8</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>diff.changed</string>
+            <key>scope</key>
+            <string>markup.changed</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#e67e22</string>
+               <key>foreground</key>
+               <string>#f8f8f8</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>diff.inserted</string>
+            <key>scope</key>
+            <string>markup.inserted</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#f1c40f</string>
+               <key>foreground</key>
+               <string>#f8f8f8</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>SublimeLinter Annotations</string>
+            <key>scope</key>
+            <string>sublimelinter.outline.notes</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#233345</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>SublimeLinter Outline</string>
+            <key>scope</key>
+            <string>sublimelinter.outline.illegal</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#d7503c</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>SublimeLinter Underline</string>
+            <key>scope</key>
+            <string>sublimelinter.outline.warning</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#d7503c</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>SublimeLinter Warning Outline</string>
+            <key>scope</key>
+            <string>sublimelinter.outline.warning</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#9f3a2c</string>
+               <key>foreground</key>
+               <string>#ffffff</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>SublimeLinter Warning Underline</string>
+            <key>scope</key>
+            <string>sublimelinter.underline.warning</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#d7503c</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>SublimeLinter Violation Outline</string>
+            <key>scope</key>
+            <string>sublimelinter.outline.violation</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#9f3a2c</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>SublimeLinter Violation Underline</string>
+            <key>scope</key>
+            <string>SublimeLinter.underline.violation</string>
+            <key>settings</key>
+            <dict>
+               <key>background</key>
+               <string>#d7503c</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>html id</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.id.html</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#ff87f9</string>
+               <key>fontStyle</key>
+               <string>bold</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>html class</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.html</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#43e689</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>html punctuations tags</string>
+            <key>scope</key>
+            <array>
+               <string>punctuation.definition.tag.end</string>
+               <string>punctuation.definition.tag.begin</string>
+               <string>punctuation.definition.tag</string>
+            </array>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#ffffff</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>CSS @import</string>
+            <key>scope</key>
+            <string>keyword.control.at-rule.import.css</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#f1c40f</string>
+               <key>fontStyle</key>
+               <string>bold</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>LESS variables</string>
+            <key>scope</key>
+            <string>variable.other.less</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#ffffff</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>LESS variables</string>
+            <key>scope</key>
+            <string>entity.other.less.mixin</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#9b59b6</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>LESS units</string>
+            <key>scope</key>
+            <string>source.css.less keyword.unit.css</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#3498db</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Angular</string>
+            <key>scope</key>
+            <array>
+               <string>entity.other.attribute-name.angular.html</string>
+               <string>source.angular.embedded.html</string>
+            </array>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#e74c3c</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>HTML Entities</string>
+            <key>scope</key>
+            <string>constant.character.entity.html</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#3498db</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>coffee instance var</string>
+            <key>scope</key>
+            <string>variable.other.readwrite.instance.coffee</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#e67e22</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>coffee brace</string>
+            <key>scope</key>
+            <array>
+               <string>meta.brace.round.coffee</string>
+               <string>meta.brace.square.coffee</string>
+            </array>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#f1c40f</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>coffee embeded</string>
+            <key>scope</key>
+            <string>punctuation.section.embedded.coffee</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#5eebb8</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Coffee vars</string>
+            <key>scope</key>
+            <string>variable.assignment.coffee variable.assignment.coffee</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#ffffff</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Coffee dots</string>
+            <key>scope</key>
+            <string>meta.delimiter.method.period.coffee</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#3cadd7</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Coffee curleys</string>
+            <key>scope</key>
+            <string>meta.brace.curly.coffee</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#1abc9c</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>Doctype/XML Processing</string>
+            <key>scope</key>
+            <array>
+               <string>meta.tag.sgml.doctype.xml</string>
+               <string>declaration.sgml.html declaration.doctype</string>
+               <string>declaration.sgml.html declaration.doctype entity</string>
+               <string>declaration.sgml.html declaration.doctype string</string>
+               <string>declaration.xml-processing</string>
+               <string>declaration.xml-processing entity</string>
+               <string>declaration.xml-processing string</string>
+               <string>doctype</string>
+            </array>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#3c444d</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>SublimeLinter Gutter Mark</string>
+            <key>scope</key>
+            <string>sublimelinter.gutter-mark</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#ffffff</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>SublimeLinter Warning</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.warning</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#ddb700</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>SublimeLinter Error</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.error</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#d02000</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>GitGutter deleted</string>
+            <key>scope</key>
+            <string>markup.deleted.git_gutter</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#f92672</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>GitGutter inserted</string>
+            <key>scope</key>
+            <string>markup.inserted.git_gutter</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#a6e22e</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>GitGutter changed</string>
+            <key>scope</key>
+            <string>markup.changed.git_gutter</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#967efb</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>GitGutter ignored</string>
+            <key>scope</key>
+            <string>markup.ignored.git_gutter</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#565656</string>
+            </dict>
+         </dict>
+         <dict>            <!-- BEGIN: One Scope Definition -->
+            <key>name</key>
+            <string>GitGutter untracked</string>
+            <key>scope</key>
+            <string>markup.untracked.git_gutter</string>
+            <key>settings</key>
+            <dict>
+               <key>foreground</key>
+               <string>#565656</string>
+            </dict>
+         </dict>
+      </array>
+   </dict>

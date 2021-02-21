@@ -1,26 +1,26 @@
 {
-	"author": "a-new-level-media",
-	"name": "day-off-color-theme",
-	"displayName": "Day Off Color Theme",
-	"description": "This is a remix of the popular Brogrammer theme that was first discovered and used in Sublime Text 3. Enjoy!",
-	"version": "1.2.1",
-	"engines": {
-		"vscode": "^1.38.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Day Off Color Theme",
-				"uiTheme": "vs-dark",
-				"path": "./themes/.day-off-color-theme.json"
-			}
-		]
-	},
-	"publisher": "ANewLevelMedia",
-	"repository": {
-		"url": "https://gitlab.com/anewlevelmedia/day-off-vsc-theme"
-	}
+   "author": "a-new-level-media",
+   "name": "day-off-color-theme",
+   "displayName": "Day Off Color Theme",
+   "description": "This is a remix of the popular Brogrammer theme that was first discovered and used in Sublime Text 3. Enjoy!",
+   "version": "1.2.1",
+   "engines": {
+      "vscode": "^1.38.0"
+   },
+   "categories": [
+      "Themes"
+   ],
+   "contributes": {
+      "themes": [
+         {
+            "label": "Day Off Color Theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/.day-off-color-theme.json"
+         }
+      ]
+   },
+   "publisher": "ANewLevelMedia",
+   "repository": {
+      "url": "https://gitlab.com/anewlevelmedia/day-off-vsc-theme"
+   }
 }
