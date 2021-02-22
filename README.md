@@ -1,6 +1,6 @@
 # Day Off VSCode Theme
 
-[GitHub Source](https://github.com/ANewLevelMedia/day-off-vsc-theme)
+[GitHub Source](https://gitlab.com/anewlevelmedia/day-off-vsc-theme)
 
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anewlevelmedia.day-off-color-theme)
 
@@ -8,7 +8,7 @@ This is a remix of the popular Brogrammer theme that was first discovered and us
 
 Hope you enjoy!
 
-_P.S. This theme is created with the use of the "Operator Mono" font in mind._
+_P.S. This theme is created with the use of the "Operator Mono" font in mind. (ligatures are optional)_
 
 ## Note
 
