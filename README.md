@@ -2,7 +2,7 @@
 
 [GitLab Source](https://gitlab.com/anewlevelmedia/day-off-vsc-theme)
 
-[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anewlevelmedia.day-off-color-theme)
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ANewLevelMedia.day-off-color-theme)
 
 This is a remix of the popular Brogrammer theme that I first discovered and used in Sublime Text 3.
 
