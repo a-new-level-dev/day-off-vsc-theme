@@ -4,6 +4,7 @@
 archived/
 
 # Working Files
+.editorconfig
 .gitignore
 *.code-workspace
 
