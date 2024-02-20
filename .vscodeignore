@@ -1,6 +1,12 @@
+# Directories
 .vscode/**
 .vscode-test/**
-.gitignore
-vsc-extension-quickstart.md
-*.code-workspace
 archived/
+
+# Working Files
+.gitignore
+*.code-workspace
+
+# Personal & General Info Files
+NOTES.md
+QUICKSTART.md
