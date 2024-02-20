@@ -1,3 +1,5 @@
+<!-- KEEPING THIS FOR REFERENCE -->
+<!-- BUT THESE DEFINITIONS SHOULD NOW ALL BE UNDER THE `tokenColors` field in the `.day-off-color-theme.json` file -->
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.2.2">
