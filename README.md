@@ -16,11 +16,11 @@ The colors you see in the indents are the result of another extension: [Indent R
 
 ## Sample Screenshots
 
-![Code Sample #1](https://github.com/a-new-level-dev/day-off-vsc-theme/blob/master/assets/img/day-off-screen-01.png)
+<img src="assets/img/day-off-screen-01.png" />
 
-![Code Sample #2](https://github.com/a-new-level-dev/day-off-vsc-theme/blob/master/assets/img/day-off-screen-02.png)
+<img src="assets/img/day-off-screen-02.png" />
 
-![Tabs & Menu Bar](https://github.com/a-new-level-dev/day-off-vsc-theme/blob/master/assets/img/day-off-screen-03.png)
+<img src="assets/img/day-off-screen-03.png" />
 
-![Activity Bar](https://github.com/a-new-level-dev/day-off-vsc-theme/blob/master/assets/img/day-off-screen-04.png)
+<img src="assets/img/day-off-screen-04.png" />
 
