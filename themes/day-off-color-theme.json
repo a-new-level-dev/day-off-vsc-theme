@@ -3,6 +3,20 @@
    "name": "Day Off Color Theme",
    "type": "dark",
    "colors": {
+      // ——————————————————————————————————————————
+      // PEACOCK DEFINITIONS
+      // - keeping for ref, but not sure that I'll want to define them
+      // ——————————————————————————————————————————
+      // "commandCenter.border": "#e7e7e799",
+      // "sash.hoverBorder": "#906ff1",
+      // "tab.activeBorder": "#906ff1",
+      // "titleBar.activeBackground": "#6c41ec",
+      // "titleBar.activeForeground": "#e7e7e7",
+      // "titleBar.inactiveBackground": "#6c41ec99",
+      // "titleBar.inactiveForeground": "#e7e7e799",
+      // ——————————————————————————————————————————
+      // GENERAL DEFINITIONS
+      // ——————————————————————————————————————————
       "activityBar.activeBackground": "#00cccc30",
       "activityBar.activeBorder": "#00ffff",
       "activityBar.background": "#1a1a1a",
@@ -10,7 +24,6 @@
       "activityBarBadge.background": "#00ff88",
       "activityBarBadge.foreground": "#000000",
       "bookmarks.lineBackground": "#007aff50",
-      "commandCenter.border": "#e7e7e799",
       "editor.background": "#1a1a1a",
       "editor.foreground": "#ecf0f1",
       "editor.inactiveSelectionBackground": "#e74c3c59",
@@ -41,12 +54,10 @@
       "input.background": "#333333",
       "input.border": "#ff7f50",
       "input.foreground": "#ffffff",
-      "sash.hoverBorder": "#906ff1",
       "sideBar.border": "#00ffff90",
       "statusBar.background": "#0f0f0f",
       "statusBar.foreground": "#cccccc",
       "tab.activeBackground": "#1a1a1a",
-      "tab.activeBorder": "#906ff1",
       "tab.activeBorderTop": "#e74c3c",
       "tab.activeForeground": "#ffffff",
       "tab.activeModifiedBorder": "#00ffff",
@@ -61,10 +72,6 @@
       "terminal.selectionBackground": "#e74c3c70",
       "terminalCursor.background": "#000000",
       "terminalCursor.foreground": "#f5d88c",
-      "titleBar.activeBackground": "#6c41ec",
-      "titleBar.activeForeground": "#e7e7e7",
-      "titleBar.inactiveBackground": "#6c41ec99",
-      "titleBar.inactiveForeground": "#e7e7e799",
       "window.activeBorder": "#00ff00",
       "window.inactiveBorder": "#ff000050",
       //"actionBar.toggledBackground": "#00ffff3a",
