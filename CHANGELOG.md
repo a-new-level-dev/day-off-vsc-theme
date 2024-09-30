@@ -43,3 +43,4 @@ All notable changes to the "Day Off Color Theme" extension will be documented in
 
 more 
 
+typ
