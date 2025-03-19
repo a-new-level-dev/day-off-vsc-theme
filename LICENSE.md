@@ -1,4 +1,4 @@
-Visual Studio Code Color Theme Extension
+# Visual Studio Code Color Theme Extension
 
 Copyright (c) A New Level Media
 

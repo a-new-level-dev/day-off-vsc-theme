@@ -20,9 +20,8 @@ The colors you see in the indents are the result of another extension: [Indent R
 
 ## Sample Screenshots
 
-<img src="assets/img/day-off-screen-01.png" />
+![sample 1](assets/img/day-off-screen-01.png)
 
-<img src="assets/img/day-off-screen-02.png" />
+![sample 2](assets/img/day-off-screen-02.png)
 
-<img src="assets/img/day-off-screen-03.png" />
-
+![sample 3](assets/img/day-off-screen-03.png)
