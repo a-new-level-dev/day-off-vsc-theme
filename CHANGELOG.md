@@ -6,6 +6,14 @@ All notable changes to the "Day Off Color Theme" extension will be documented in
 
 - N/A
 
+## [2.0.1] (18-Mar-2025)
+
+### Features
+
+- Updated color theme properties using VS Code's built-in generator
+
+  - "Developer: Generate Color Theme from Current Settings"
+
 ## [2.0.0] (19-Feb-2024)
 
 ### Features
