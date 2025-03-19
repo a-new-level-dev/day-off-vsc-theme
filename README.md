@@ -2,7 +2,7 @@
 
 This is a color theme extension for the VS Code editor.
 
-It is a remix of the popular Brogrammer theme that I first discovered and used in Sublime Text 3.
+It is a remix of the popular Brogrammer theme first discovered and used in Sublime Text 3.
 
 Hope you enjoy!!!
 
