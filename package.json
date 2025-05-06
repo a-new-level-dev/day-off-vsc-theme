@@ -3,7 +3,7 @@
    "name": "day-off-color-theme",
    "displayName": "Day Off Color Theme",
    "description": "This is a remix of the popular Brogrammer theme first discovered and used in Sublime Text. Enjoy!",
-   "version": "2.0.1",
+   "version": "2.0.2",
    "engines": {
       "vscode": "^1.85.0"
    },

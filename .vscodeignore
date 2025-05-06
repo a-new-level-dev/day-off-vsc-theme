@@ -1,6 +1,8 @@
 # Directories
 .vscode/**
 .vscode-test/**
+.yarn/**/*
+.yarnrc.yml
 archived/
 
 # Working Files

@@ -6,7 +6,7 @@ All notable changes to the "Day Off Color Theme" extension will be documented in
 
 - N/A
 
-## [2.0.1] (18-Mar-2025)
+## [2.0.2] (05-May-2025)
 
 ### Features
 
