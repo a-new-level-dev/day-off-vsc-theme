@@ -5,6 +5,9 @@
 .yarnrc.yml
 archived/
 
+# Large Files to Ignore for Publishing
+pnpm-lock.yaml
+
 # Working Files
 .editorconfig
 .gitignore
