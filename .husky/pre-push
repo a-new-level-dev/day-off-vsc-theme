@@ -1,0 +1,11 @@
+#!/bin/sh
+# .husky/pre-push
+
+EXIT_CODE=0;
+
+yarn run type:check || EXIT_CODE=$?;
+yarn run test || EXIT_CODE=$?;
+# TODO **[G]** :: Add this back in once I decide how I want the Rabbit to review things
+# yarn run code:review || EXIT_CODE=$?;
+
+exit $EXIT_CODE;
